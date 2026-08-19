@@ -1,18 +1,3 @@
-<h1 align="center">👩🏻‍💻 Larissa Santos</h1>
-
-<p align="center">
-  <b>NETWORKING • INFRASTRUCTURE • CYBERSECURITY</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/LOCATION-SÃO%20PAULO-00bcd4?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/FOCUS-REDES%20%26%20SEGURANÇA-9b59b6?style=for-the-badge&labelColor=0d1117" />
-</p>
-
----
-
-```bash
 ┌──(larissa㉿network)─[~]
 └─$ whoami
 
@@ -109,5 +94,4 @@ objetivo: >
 
 ┌──(larissa㉿network)─[~]
 └─$ echo "Keep learning. Keep building. Keep connecting."
-
 
