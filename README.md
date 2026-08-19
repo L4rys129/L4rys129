@@ -1,97 +1,98 @@
-┌──(larissa㉿network)─[~]
-└─$ whoami
+# 👩🏻‍💻 Larissa Santos
 
-nome: Larissa Santos Ferreira
-idade: 21 anos
-localização: São Paulo, Brasil
+### Redes • Infraestrutura • Segurança da Informação
 
-formação:
-  curso: Gestão da Tecnologia da Informação
-  instituição: UNICID
+Olá! Meu nome é **Larissa Santos Ferreira**, tenho **21 anos** e sou natural de **São Paulo**.
 
-interesses:
-  - Redes de Computadores
-  - Infraestrutura de TI
-  - Segurança da Informação
-  - Cibersegurança
+Atualmente, curso **Gestão da Tecnologia da Informação** na **UNICID** e venho construindo minha trajetória profissional na área de tecnologia.
 
-objetivo: >
-  Construir uma carreira sólida na área de Tecnologia,
-  com foco em Redes, Infraestrutura e Segurança da Informação.
+Tenho grande interesse por **Redes de Computadores, Infraestrutura e Segurança da Informação**, áreas nas quais busco constantemente aprimorar meus conhecimentos e desenvolver experiência prática.
 
-[✓] NETWORKING
-[✓] INFRASTRUCTURE
-[✓] INFORMATION SECURITY
-[✓] CYBERSECURITY
-[✓] LINUX
-[✓] GIT & GITHUB
-[✓] C PROGRAMMING
+Meu objetivo é construir uma carreira sólida em tecnologia, com foco em **Redes e Cibersegurança**.
+
+---
+
+## 🖧 Áreas de interesse
+
+> Redes de Computadores  
+> Infraestrutura de TI  
+> Segurança da Informação  
+> Cibersegurança  
+> Sistemas Linux  
+
+---
+
+## 🛠️ Tecnologias e conhecimentos
 
 <p align="left">
 
-<img alt="C" title="C" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img 
+    alt="C"
+    title="C"
+    width="40px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
 
-<img alt="Linux" title="Linux" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img 
+    alt="Linux"
+    title="Linux"
+    width="40px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
 
-<img alt="Git" title="Git" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img 
+    alt="Git"
+    title="Git"
+    width="40px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 
-<img alt="GitHub" title="GitHub" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
-</p> <br/>
-
-<p align="left">
-
-<img alt="Fortinet NSE 1" title="Fortinet NSE 1" src="https://img.shields.io/badge/FORTINET-NSE%201-EF3F5A?style=for-the-badge&logo=fortinet&logoColor=white" />
+<img 
+    alt="GitHub"
+    title="GitHub"
+    width="40px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
 
 </p>
 
-                           ┌──────────────┐
-                           │   INTERNET   │
-                           └──────┬───────┘
-                                  │
-                                  ▼
-                          ┌───────────────┐
-                          │    LARISSA    │
-                          │    SANTOS     │
-                          └───────┬───────┘
-                                  │
-                ┌─────────────────┼─────────────────┐
-                │                 │                 │
-                ▼                 ▼                 ▼
-          ┌──────────┐      ┌──────────────┐   ┌──────────────┐
-          │  REDES   │      │ INFRAESTRUTURA│   │  SEGURANÇA   │
-          └────┬─────┘      └──────┬───────┘   └──────┬───────┘
-               │                   │                  │
-               └───────────────────┼──────────────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │  CYBERSECURITY    │
-                         └───────────────────┘
+<br/>
 
-┌──(larissa㉿network)─[~/career]
-└─$ cat objectives.txt
+---
 
-> Desenvolver conhecimentos sólidos em Redes de Computadores.
+## 📜 Certificações
 
-> Aprofundar conhecimentos em Infraestrutura de TI.
+<img 
+    alt="Fortinet NSE 1"
+    title="Fortinet NSE 1"
+    src="https://img.shields.io/badge/Fortinet-NSE%201-Certified-EF3F5A?style=for-the-badge&logo=fortinet&logoColor=white"
+/>
 
-> Evoluir tecnicamente na área de Segurança da Informação.
+---
 
-> Conquistar certificações relevantes para o mercado.
-
-> Construir experiência prática em ambientes de redes.
-
-> Seguir uma carreira profissional em Cibersegurança.
+## 📊 GitHub
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br" />
+<img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissakich&theme=tokyonight&layout=compact&hide_border=true&langs_count=5" />
+<img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissakich&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 </p>
 
-┌──(larissa㉿network)─[~]
-└─$ echo "Keep learning. Keep building. Keep connecting."
+---
+
+<p align="center">
+  📍 São Paulo, Brasil
+</p>
 
